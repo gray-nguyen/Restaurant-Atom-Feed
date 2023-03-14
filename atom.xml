@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:status.olo.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://status.olo.com"/>
+  <link rel="self" type="application/atom+xml" href="https://status.olo.com/history.atom"/>
+  <title>Olo Status - Incident History</title>
+  <updated>2023-03-13T12:43:21-04:00</updated>
+  <author>
+    <name>Olo</name>
+  </author>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16477369</id>
+    <published>2023-03-13T12:43:21-04:00</published>
+    <updated>2023-03-13T12:43:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/8rhrs5vyxwt5"/>
+    <title>DoorDash Service Disruption</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;12:43&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;12:19&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Service with DoorDash has returned to normal and we are actively monitoring at this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:46&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing a service disruption with DoorDash that would cause problems with Rails orders. We will provide updates as they become available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16407091</id>
+    <published>2023-03-09T19:06:28-05:00</published>
+    <updated>2023-03-09T19:06:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/0j5jj1367z32"/>
+    <title>Payment Processor Issues: Valutec</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;19:06&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;18:55&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are seeing Valutec, Worldpay MercPay Webservices, and Worldpay EXPRESS transactions return to normal and continue to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;18:23&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Worldpay has identified an issue on their end.  The gift card processors affected include: Valutec, Worldpay MercPay Webservices, and Worldpay EXPRESS.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:44&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Valutec. Ordering may be affected at locations using Valutec as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16361471</id>
+    <published>2023-03-07T06:00:33-05:00</published>
+    <updated>2023-03-07T06:00:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/bf8grjw7840z"/>
+    <title>Partner Scheduled Maintenance: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;16:50&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Paytronix has scheduled maintenance for 3/7 from 4am to 6am ET. During that time, payments and loyalty may be impacted.&lt;br /&gt;&lt;br /&gt;https://status.pxsweb.com/incidents/s70sqdv5yvgj&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16326533</id>
+    <published>2023-03-02T14:24:36-05:00</published>
+    <updated>2023-03-02T14:24:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/056nzssspn2r"/>
+    <title>Issues with Loyalty-based Orders</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:24&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:54&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:35&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigation a disruption in loyalty processing.  Users may be unable to log in or use points or rewards with placed orders.  We will provide updates as they become available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16306671</id>
+    <published>2023-02-28T12:14:49-05:00</published>
+    <updated>2023-02-28T12:14:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/jybcvxlxdpvl"/>
+    <title>Payment Processor Issues: Givex</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:14&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:50&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Givex. Ordering may be affected at locations using GiveX as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16270997</id>
+    <published>2023-02-28T06:00:25-05:00</published>
+    <updated>2023-02-28T06:00:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/sg8qf15njr79"/>
+    <title>Partner Scheduled Maintenance: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:22&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Paytronix has scheduled maintenance for 2/28 from 4am to 6am ET. During that time, payments and loyalty may be impacted.&lt;br /&gt;&lt;br /&gt;https://status.pxsweb.com/incidents/00rbtxzd3vml&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16282003</id>
+    <published>2023-02-26T06:42:38-05:00</published>
+    <updated>2023-02-26T06:42:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/8cg89k1vrg6l"/>
+    <title>Payment Processor Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:42&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:23&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Error rates have returned to normal levels. We are continuing to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:10&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Paytronix. Ordering may be affected at locations using Paytronix as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16270639</id>
+    <published>2023-02-24T15:23:23-05:00</published>
+    <updated>2023-02-24T15:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/wtkj9xgdqqnh"/>
+    <title>Partial Dashboard(my.olo.com) Disruption</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:23&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:58&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:34&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing delays for updates to menus using Dashboard. We will provide updates as soon as they become available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16256417</id>
+    <published>2023-02-23T16:51:09-05:00</published>
+    <updated>2023-02-23T16:51:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/3p538n09b2zz"/>
+    <title>Issues Processing Payments</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:51&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:36&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and error rates have subsided. We are actively monitoring at this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:24&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We're experiencing an issue processing payments and are currently working on a fix.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16226053</id>
+    <published>2023-02-21T16:24:59-05:00</published>
+    <updated>2023-02-21T16:24:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/w9zg99d18l3y"/>
+    <title>Loyalty Partner Issues: Fishbowl</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:24&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:12&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are seeing successful communication with Fishbowl resume.  We will continue to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:06&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are experiencing errors communicating with Fishbowl. Users may be unable to log in or use points or rewards with placed orders.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing errors communicating with Fishbowl. Users may be unable to log in or use points or rewards with placed orders.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16198812</id>
+    <published>2023-02-19T16:37:16-05:00</published>
+    <updated>2023-02-19T16:37:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/q5tln686ypzq"/>
+    <title>Payment Processor Issues: SVS</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:37&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:49&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:33&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:26&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through SVS. Ordering may be affected at locations using SVS as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16183654</id>
+    <published>2023-02-18T06:00:39-05:00</published>
+    <updated>2023-02-18T06:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/p8b8vr13s5q9"/>
+    <title>Partner Scheduled Maintenance: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;20:32&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Paytronix has scheduled maintenance for 2/18 from 4am to 6am ET. During that time, payments and loyalty may be impacted.&lt;br /&gt;&lt;br /&gt;https://status.pxsweb.com/incidents/ng5bgcdmgllz&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;20:17&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Paytronix has scheduled maintenance for 2/18 from 4am to 6am ET. During that time, payments and loyalty may be impacted.&lt;br /&gt;&lt;br /&gt;https://status.pxsweb.com/incidents/ng5bgcdmgllz&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16183626</id>
+    <published>2023-02-17T21:22:03-05:00</published>
+    <updated>2023-02-17T21:22:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/50tp7dfrp6z0"/>
+    <title>Payment Processor Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:22&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:05&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are seeing Paytronix transactions return to normal and continue to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;20:11&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Paytronix. Ordering may be affected at locations using Paytronix as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16179502</id>
+    <published>2023-02-17T13:20:49-05:00</published>
+    <updated>2023-02-17T13:20:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/y02h8czbb0wj"/>
+    <title>Payment Processor Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:20&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:11&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have detected a decrease in Patronix errors and are continuing to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:39&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Paytronix has identified an issue with their system.&lt;br /&gt;https://status.pxsweb.com/incidents/0jsnvtt9wxs0&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:29&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Paytronix. Ordering may be affected at locations using Paytronix as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16149059</id>
+    <published>2023-02-15T14:15:46-05:00</published>
+    <updated>2023-02-15T14:15:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/68ppkzc7sfr3"/>
+    <title>Payment Processor Issues: Elavon</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:15&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:16&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Performance has returned to normal and we will continue to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:21&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified degraded performance with Elavon.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16128956</id>
+    <published>2023-02-15T06:00:16-05:00</published>
+    <updated>2023-02-15T06:00:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/kxscft8t34th"/>
+    <title>Partner Scheduled Maintenance: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;04:02&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:54&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Paytronix has scheduled maintenance for 2/15 from 4am to 6am ET. During that time, payments and loyalty may be impacted.&lt;br /&gt;&lt;br /&gt;https://status.pxsweb.com/incidents/3gyxply5stwl&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16140837</id>
+    <published>2023-02-14T20:45:04-05:00</published>
+    <updated>2023-02-14T20:45:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/1ch3m44rtm8s"/>
+    <title>Elevated API Errors</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:45&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:12&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:48&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:09&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're experiencing an elevated level of API errors and are currently looking into the issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16141687</id>
+    <published>2023-02-14T20:44:52-05:00</published>
+    <updated>2023-02-14T20:44:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/6vbxz3v8r3s9"/>
+    <title>Loyalty Partner Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:44&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:50&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are experiencing errors communicating with Paytronix. Users may be unable to log in or use points or rewards with placed orders.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16141674</id>
+    <published>2023-02-14T20:44:41-05:00</published>
+    <updated>2023-02-14T20:44:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/z2nxdcv534g3"/>
+    <title>Payment Processor Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:44&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:49&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Paytronix has identified an issue on their end.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16138345</id>
+    <published>2023-02-14T14:01:27-05:00</published>
+    <updated>2023-02-14T14:01:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/vh6pt978dvyp"/>
+    <title>Loyalty Partner Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:01&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:42&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:17&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing errors communicating with Paytronix. Users may be unable to log in or use points or rewards with placed orders.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16138344</id>
+    <published>2023-02-14T14:01:25-05:00</published>
+    <updated>2023-02-14T14:01:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/0kw4g70mxdbg"/>
+    <title>Payment Processor Issues: Paytronix</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:01&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:42&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:42&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:17&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Paytronix. Ordering may be affected at locations using Paytronix as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16123311</id>
+    <published>2023-02-13T10:33:42-05:00</published>
+    <updated>2023-02-13T10:33:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/w9sy2l621zkx"/>
+    <title>Partial Switchboard Disruption</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:20&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Service with Switchboard has returned to normal and we are actively monitoring at this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:08&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing a service disruption that would cause problems with some features of Switchboard. We will provide updates as soon as they become available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16093466</id>
+    <published>2023-02-10T15:24:46-05:00</published>
+    <updated>2023-02-10T15:24:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/cclz0grmjj7s"/>
+    <title>Payment Processor Issues: Heartland</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:24&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're detecting elevated errors processing payments through Heartland. Ordering may be affected at locations using Heartland as their payment provider.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16080194</id>
+    <published>2023-02-09T15:12:31-05:00</published>
+    <updated>2023-02-09T15:12:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/vzks7d5btw7j"/>
+    <title>Loyalty Partner Issues: Punchh</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:12&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Service with Punchh has returned to normal and we are actively monitoring at this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing errors communicating with Punchh. Users may be unable to place orders, or use/accrue points or rewards with placed orders.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.olo.com,2005:Incident/16068051</id>
+    <published>2023-02-08T19:58:49-05:00</published>
+    <updated>2023-02-08T19:58:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.olo.com/incidents/l565pldsrtks"/>
+    <title>Rails Ordering Service Disruption</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;19:58&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:32&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;17:16&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:36&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing issues with some Rails orders for some partners. We will provide updates as they become available.&lt;/p&gt;</content>
+  </entry>
+</feed>
